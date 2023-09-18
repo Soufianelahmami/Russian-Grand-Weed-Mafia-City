@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"The Russian Grand Prix, an integral part of the Formula 1 World Championship, has emerged as a thrilling and captivating race on the global motorsport calendar ",
+   "photo1":"https://iili.io/JHQ6hR2.webp"},
+  {"desc2":"Since its inception in 2014, the race has gained immense popularity and has been a significant addition to the championship's diverse range of tracks","photo2":"https://iili.io/JHQ6jNS.webp"},
+  {"desc3":"Hosted at the Sochi Autodrom in the resort city of Sochi, this event not only showcases the skill and determination of Formula 1 drivers but also offers a unique blend of history, culture, and speed","photo3":"https://iili.io/JHQ6XHl.webp"},
+  {"desc4":"In this article, we'll take a closer look at the Russian Grand Prix, its history, the Sochi Autodrom, memorable moments, and the impact it has on both Formula 1 and Russia's sporting landscape","photo4":"https://iili.io/JHQ6wD7.webp"},
+  {"desc5":"The Russian Grand Prix made its debut in the modern era of Formula 1 in 2014. Sochi, with its scenic landscapes and striking architecture, was chosen as the host city, largely due to its status as a prominent tourist destination in Russia","photo5":"https://iili.io/JHQ6eVe.webp"},
+  {"descd":"The inaugural race took place on October 12, 2014, and was won by Lewis Hamilton, the reigning World Champion at the time, driving for Mercedes","photod":"https://iili.io/JHQ6Ox9.webp"}
    ]
  
 }
