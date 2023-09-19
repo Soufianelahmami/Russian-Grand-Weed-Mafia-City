@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ9vRaa.webp",
+            "title": "Russian Grand Weed Mafia City 1",
+            "text_Content_": "The Russian Grand Prix is a premier event in the world of Formula 1 racing, showcasing the perfect blend of high-speed competition and rich cultural heritage."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JHQ6XHl.webp",
+            "title": "Russian Grand Weed Mafia City 2",
+            "text_Content_": "Since its inception in 2014, this race has become a highlight of the Formula 1 calendar, drawing drivers, teams, and fans from all over the globe to the historic Sochi Autodrom."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ9v58J.webp",
+            "title": "Russian Grand Weed Mafia City 3",
+            "text_Content_": " In this article, we'll delve into the exciting world of the Russian Grand Prix, exploring its history, unique features, and the unforgettable moments that have graced this prestigious event."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JHQ6eVe.webp",
+            "title": "Russian Grand Weed Mafia City 4",
+            "text_Content_": "The idea of hosting a Formula 1 race in Russia had been in the works for several years before it came to fruition in 2014. The country had a growing interest in motorsports, and the construction of the Sochi Autodrom."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ9vT6F.webp",
+            "title": "Russian Grand Weed Mafia City 5",
+            "text_Content_": " purpose-built for Formula 1 racing, provided the perfect opportunity. Located within the Sochi Olympic Park, the circuit incorporated elements of the 2014 Winter Olympics, offering a visually stunning backdrop to the race."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ9vA3g.webp",
+            "title": "Russian Grand Weed Mafia City 6",
+            "text_Content_": " purpose-built for Formula 1 racing, provided the perfect opportunity. Located within the Sochi Olympic Park, the circuit incorporated elements of the 2014 Winter Olympics, offering a visually stunning backdrop to the race."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JHQ6Ox9.webp",
+            "title": "Russian Grand Weed Mafia City 7",
+            "text_Content_": "The Sochi Autodrom is a 5.848-kilometer circuit that winds its way through the Olympic Park, combining long straights with challenging corners, providing a balanced mix of speed and technicality."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JHQ6jNS.webp",
+            "title": "Russian Grand Weed Mafia City 8",
+            "text_Content_": "Over the years, the Russian Grand Prix has seen its fair share of memorable moments and exciting races. One of the most iconic moments occurred during the 2015 race when Lewis Hamilton and Sebastian Vettel engaged in a thrilling battle for victory."
         }
     ]
 }
